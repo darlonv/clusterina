@@ -1,7 +1,7 @@
 site_name: Cluster HPC
 site_description: Documentação do Cluster de Computação
 site_author: Equipe de Infraestrutura
-site_url: https://SEU_USUARIO.github.io/cluster-docs/
+site_url: https://darlon.github.io/clusterina/
 
 theme:
   name: material
