@@ -34,9 +34,9 @@ Considere o projeto `hidro`, que possui os membros `joao.santos` e `maria.souza`
 
 ```text
 /projetos/
-    hidro/
-        joao.santos/
-        maria.souza/
+└── hidro/
+    ├── joao.santos/
+    └── maria.souza/
 ```
 
 tanto `joao.santos` quanto `maria.souza` possuem acesso de **leitura** ao diretório dos outros membros do grupo. Porém, as permissões de escrita existem apenas nos diretórios dos próprios usuários.
