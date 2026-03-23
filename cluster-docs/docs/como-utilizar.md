@@ -1,24 +1,5 @@
 # Como utilizar
 
-## Solicitar acesso
-
-Envie e-mail para:
-
-`solicitacao.cluster@ufpr.edu.br`
-
-Informando:
-
-- Grupo de pesquisa
-- Necessidade
-- Nome dos pesquisadores
-- E-mails dos pesquisadores
-
----
-
-## Acesso
-
-As instruções de acesso ao cluster são enviadas via e-mail, após o cadastro
-
 ## Organização de diretórios
 
 Cada projeto de pesquisa está organizado no cluster da seguinte maneira:
@@ -39,7 +20,9 @@ Considere o projeto `hidro`, que possui os membros `joao.santos` e `maria.souza`
     └── maria.souza/
 ```
 
-tanto `joao.santos` quanto `maria.souza` possuem acesso de **leitura** ao diretório dos outros membros do grupo. Porém, as permissões de escrita existem apenas nos diretórios dos próprios usuários.
+Tanto `joao.santos` quanto `maria.souza` possuem acesso de **leitura** ao diretório dos outros membros do grupo. Porém, as permissões de escrita existem apenas nos diretórios dos próprios usuários.
+
+No cluster, o comando `meus-projetos` informa quais são os projetos que o usuário está cadastrado.
 
 ## Slurm
 
@@ -53,8 +36,6 @@ Para a execução, diferentes filas podem ser utilizadas. Estas são:
 - `short`: execuções curtas
 - `long`: execuções longas
 - `max`: execuções sem limite rígido
-
----
 
 ## Exemplo
 

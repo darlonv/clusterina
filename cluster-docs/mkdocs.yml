@@ -9,7 +9,7 @@ theme:
 
 nav:
   - Início: index.md
-  - Sobre: sobre.md
   - Arquitetura: arquitetura.md
+  - Solicitar Acesso: solicitar-acesso.md
   - Como utilizar: como-utilizar.md
   - Grupos de Pesquisa: grupos-pesquisa.md
