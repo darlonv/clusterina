@@ -4,3 +4,5 @@ O cluster HPC da UFPR é composto por **2 máquinas interligadas via rede Gigabi
 
 O ambiente permite execução de aplicações paralelas e científicas com alta eficiência.
 
+
+
