@@ -8,8 +8,10 @@ theme:
   language: pt-BR
 
 nav:
-  - Início: index.md
+  - Sobre: index.md
   - Arquitetura: arquitetura.md
+  - Ferramentas: ferramentas.md
   - Solicitar Acesso: solicitar-acesso.md
   - Como utilizar: como-utilizar.md
   - Grupos de Pesquisa: grupos-pesquisa.md
+  - Publicações: publicacoes.md
