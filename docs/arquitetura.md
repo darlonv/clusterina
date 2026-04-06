@@ -29,7 +29,6 @@ Ambos os nós possuem configuração de hardware idêntica, baseada no servidor 
 | Componente | Especificação |
 |---|---|
 | **Modelo** | Dell PowerEdge R7625 |
-| **Fator de forma** | Rack 2U |
 | **Processador** | 2× AMD EPYC 9454 (2.75 GHz, 48 cores / 96 threads, 256 MB de cache L3, TDP 290 W) |
 | **Total de núcleos** | 96 núcleos físicos / 192 threads |
 | **Memória RAM** | 2× 16 GB RDIMM DDR5-4800 (32 GB total) |
@@ -46,7 +45,6 @@ Ambos os nós possuem configuração de hardware idêntica, baseada no servidor 
 | Componente | Especificação |
 |---|---|
 | **Modelo** | Dell PowerEdge R7625 |
-| **Fator de forma** | Rack 2U |
 | **Processador** | 2× AMD EPYC 9454 (2.75 GHz, 48 cores / 96 threads, 256 MB de cache L3, TDP 290 W) |
 | **Total de núcleos** | 96 núcleos físicos / 192 threads |
 | **Memória RAM** | 2× 16 GB RDIMM DDR5-4800 (32 GB total) |
