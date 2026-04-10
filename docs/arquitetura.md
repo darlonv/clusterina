@@ -33,10 +33,10 @@ Ambos os nós possuem configuração de hardware idêntica, baseada no servidor 
 | **Total de núcleos** | 96 núcleos físicos / 192 threads |
 | **Memória RAM** | 2× 16 GB RDIMM DDR5-4800 (32 GB total) |
 | **Armazenamento** | 1× SSD SATA 480 GB (Read Intensive, 6 Gbps, hot-plug) |
-| **Rede** | Broadcom 5720 Dual Port 1 GbE LOM |
-| **Controladora RAID** | Front H355 (PERC 11) |
+<!-- | **Rede** | Broadcom 5720 Dual Port 1 GbE LOM | -->
+<!-- | **Controladora RAID** | Front H355 (PERC 11) | -->
 
-**Papel no cluster:** gerenciamento do ambiente Slurm, autenticação de usuários, exportação NFS do diretório `/projetos`, ponto de acesso SSH externo.
+**Papel no cluster:** gerenciamento do ambiente Slurm, execução de jobs submetidos pelo Slurm, autenticação de usuários, exportação NFS do diretório `/projetos`, ponto de acesso SSH externo.
 
 ---
 
@@ -50,8 +50,8 @@ Ambos os nós possuem configuração de hardware idêntica, baseada no servidor 
 | **Memória RAM** | 2× 16 GB RDIMM DDR5-4800 (32 GB total) |
 | **Armazenamento** | 1× SSD SATA 480 GB (Read Intensive, 6 Gbps, hot-plug) |
 | **Rede** | Broadcom 5720 Dual Port 1 GbE LOM |
-| **Controladora RAID** | Front H355 (PERC 11) |
-| **Fonte de alimentação** | Dual hot-plug redundante 1+1 (1400 W, Mixed Mode) |
+<!-- | **Controladora RAID** | Front H355 (PERC 11) | -->
+<!-- | **Fonte de alimentação** | Dual hot-plug redundante 1+1 (1400 W, Mixed Mode) | -->
 
 **Papel no cluster:** execução dos jobs submetidos pelo Slurm, montagem do `/projetos` via NFS.
 
