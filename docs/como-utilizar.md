@@ -14,9 +14,9 @@ Todo o armazenamento compartilhado do cluster está localizado em `/projetos`, m
 - Todos os membros de um mesmo projeto possuem permissão de **leitura** nos diretórios dos demais membros do grupo.
 - Usuários de projetos diferentes **não** têm acesso entre si.
 
-### Estrutura recomendada dentro do diretório do usuário
+### Estrutura de diretórios
 
-Embora não seja obrigatória, a seguinte organização é recomendada para manter os projetos organizados:
+Embora não seja obrigatória, a seguinte estrutura de diretórios é recomendada para manter os projetos organizados:
 
 ```
 /projetos/<projeto>/<usuario>/
