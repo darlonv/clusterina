@@ -1,6 +1,6 @@
 # Arquitetura
 
-O cluster HPC da UFPR Campus Palotina é composto por **dois nós interligados via rede Gigabit Ethernet**, formando um ambiente de processamento paralelo e distribuído voltado à pesquisa científica e ao ensino.
+O cluster HPC (*High Performance Computing*) da UFPR Campus Palotina é composto por **dois nós interligados via rede Gigabit Ethernet**, formando um ambiente de processamento paralelo e distribuído voltado à pesquisa científica e ao ensino.
 
 ## Visão Geral
 
