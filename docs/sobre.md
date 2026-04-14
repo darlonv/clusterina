@@ -1,6 +1,7 @@
 # Sobre o Cluster
 
-O **Cluster HPC da UFPR Campus Palotina** é uma infraestrutura de computação de alto desempenho dedicada ao apoio à pesquisa científica, ao ensino de graduação e pós-graduação e ao desenvolvimento de projetos computacionalmente intensivos.
+O **Hipatia** é o **Cluster HPC** (*High Performance Computing*) da UFPR Campus Palotina, e é uma infraestrutura de computação de alto desempenho dedicada ao apoio à pesquisa científica, ao ensino de graduação e pós-graduação e ao desenvolvimento de projetos computacionalmente intensivos.
+
 
 ## Por que um cluster de alto desempenho?
 
