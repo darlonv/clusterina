@@ -1,6 +1,6 @@
-# Cluster HPC — UFPR Campus Palotina
+# Hipatia
 
-Bem-vindo à documentação oficial do **Cluster de Computação de Alto Desempenho (HPC)** da Universidade Federal do Paraná — Campus Palotina.
+Bem-vindo à documentação oficial do **Hipatia**, o cluster do **Hub Integrado de Processamento Avançado e Tecnologias para Inovação em Astrofísica** da Universidade Federal do Paraná (UFPR) - Campus Palotina.
 
 Esta plataforma é um recurso institucional dedicado à pesquisa científica, ao ensino e ao desenvolvimento de projetos que demandam processamento computacional intensivo.
 
@@ -17,11 +17,11 @@ Esta plataforma é um recurso institucional dedicado à pesquisa científica, ao
 ## Início rápido
 
 ```bash
-# Acesso via SSH (após cadastro)
+# Acesso via SSH, com instruções (após cadastro)
 ssh usuario@hpc.palotina.ufpr.br
 
 # Consultar seus projetos
-meus-projetos
+permissoes
 
 # Submeter um job de teste
 sbatch meu_job.sh
